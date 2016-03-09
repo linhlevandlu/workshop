@@ -1,0 +1,27 @@
+\begin{thebibliography}{1}
+
+\bibitem{canny1986computational}
+John Canny.
+\newblock A computational approach to edge detection.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions
+  on}, (6):679--698, 1986.
+
+\bibitem{palaniswamy2010automatic}
+Sasirekha Palaniswamy, Neil~A Thacker, and Christian~Peter Klingenberg.
+\newblock Automatic identification of landmarks in digital images.
+\newblock {\em IET Computer Vision}, 4(4):247--260, 2010.
+
+\bibitem{suzuki1985topological}
+Satoshi Suzuki et~al.
+\newblock Topological structural analysis of digitized binary images by border
+  following.
+\newblock {\em Computer Vision, Graphics, and Image Processing}, 30(1):32--46,
+  1985.
+
+\bibitem{thacker1995assessing}
+Neil~A Thacker, PA~Riocreux, and RB~Yates.
+\newblock Assessing the completeness properties of pairwise geometric
+  histograms.
+\newblock {\em Image and Vision Computing}, 13(5):423--429, 1995.
+
+\end{thebibliography}
